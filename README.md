@@ -1,2 +1,8 @@
 # Proyecto Fin curso
-En la carpeta proyecto esta el archivo java y en recursos imagenes y el SQL
+En la carpeta:
+
+Proyecto esta el archivo JAVA
+Recursos imagenes y el SQL
+ETS Proyecto esta los diagramas
+
+Espero que os guste :D
